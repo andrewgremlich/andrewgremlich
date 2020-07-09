@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there!
+
+Yes, that was an Obi-wan quote. That is something I wouldn't mind to say. However the real thing that I do say often is, "Oh hi," then insert your name.
+
+I'm a programmer. It almost seems like I'm a general purpose programmer that likes to learn whatever. Just give me time, and I'll give myself diligence and patience. With that, I'll try my best to learn!
+
+I do try and shoot for the languages that are making an impact. I am currently using JavaScript, TypeScript, and Rust.
+
+I do have a goal of trying to contribute in the community, but I'll keep with my personal and work projects for now.
 
 <!--
 **andrewgremlich/andrewgremlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
