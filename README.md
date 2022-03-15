@@ -8,7 +8,7 @@ I do have a goal of trying to contribute in the community, but I'll keep with my
 
 I write occasionally to [my development blog](https://gremlich/dev) and [my life blog](https://gremlich.me).
 
-I am learning how to organize files better in a monorepo like NX and I am learning Rust.
+I am learning how to organize files better in a monorepo like NX and I am learning Rust. I would really love to learn how to do mobile application development with Android Studio and Swift.
 
 <!--
 **andrewgremlich/andrewgremlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
