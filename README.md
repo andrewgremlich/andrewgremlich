@@ -2,9 +2,11 @@
 
 I'm a front end web developer. The front world is just so huge, that I am consistently engaged in the content!
 
+I currently help organize UtahJS Lehi meetups. It's fun meeting and relating to developers!
+
 I write occasionally to [my development blog](https://gremlich/dev) and [my life blog](https://gremlich.me).
 
-I have interest in learning Rust => Webassembly so that I could use it with my JavaScript code. I am also interested in learning computer science principles.
+I am learning Rust => Webassembly so that I could use it with my JavaScript code. I am also learning computer science principles, and seeing how those relate to my code.
 
 <!--
 **andrewgremlich/andrewgremlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
