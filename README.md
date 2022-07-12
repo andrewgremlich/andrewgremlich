@@ -1,14 +1,10 @@
 # Hello there!
 
-I'm a programmer. It almost seems like I'm a general purpose programmer that likes to learn whatever. Just give me time, and I'll give myself diligence and patience. With that, I'll try my best to learn!
-
-I do try and shoot for the languages that are making an impact. I am currently using JavaScript, TypeScript, and Rust.
-
-I do have a goal of trying to contribute in the community, but I'll keep with my personal and work projects for now.
+I'm a front end web developer. The front world is just so huge, that I am consistently engaged in the content!
 
 I write occasionally to [my development blog](https://gremlich/dev) and [my life blog](https://gremlich.me).
 
-I am learning how to organize files better in a monorepo like NX and I am learning Rust. I would really love to learn how to do mobile application development with Android Studio and Swift.
+I have interest in learning Rust => Webassembly so that I could use it with my JavaScript code. I am also interested in learning computer science principles.
 
 <!--
 **andrewgremlich/andrewgremlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
