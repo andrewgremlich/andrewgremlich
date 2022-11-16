@@ -4,7 +4,7 @@ I'm a front end web developer. The front world is just so huge, that I am consis
 
 I currently help organize UtahJS Lehi meetups. It's fun meeting and relating to developers!
 
-I write occasionally to [my development blog](https://gremlich/dev) and [my life blog](https://gremlich.me).
+I write occasionally to [my development blog](https://gremlich.dev) and [my life blog](https://gremlich.me).
 
 I am learning Rust => Webassembly so that I could use it with my JavaScript code. I am also learning computer science principles, and seeing how those relate to my code.
 
