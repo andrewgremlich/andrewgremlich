@@ -1,4 +1,4 @@
-[Andrew Gremlich](./logointro.gif)
+![Andrew Gremlich](./logointro.gif)
 
 I'm a front end web developer. The front world is just so huge, that I am consistently engaged in the content!
 
