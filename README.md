@@ -14,10 +14,6 @@ I write occasionally to [my development blog](https://gremlich.dev) and [my life
 
 I am learning various different web technologies: from WebAssembly, WebRTC, and different user experiences. Also in my study, I am looking to deepen my understanding of computer science principles in order to make efficient web software.
 
-![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrewgremlich&theme=vue)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewgremlich)
-
 <!--
 **andrewgremlich/andrewgremlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
