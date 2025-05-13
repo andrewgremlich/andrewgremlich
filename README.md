@@ -4,7 +4,7 @@ I am an experienced software engineer, and my expertise covers many different ar
 
 I currently help organize UtahJS Lehi meetups. I have met so many new and young developers that are hoping to get into the tech industry. I hope that I can adequately help and prepare them for their career.
 
-I write occasionally to [my development blog](https://gremlich.dev) and [my life blog](https://gremlich.me).
+I write occasionally to [my blog](https://gremlich.me).
 
 I am learning various different web technologies: from WebAssembly to IAAS like AWS CDK. Also in my study, I am looking to deepen my understanding of computer science principles in order to make efficient web software.
 
