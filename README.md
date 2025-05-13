@@ -1,12 +1,10 @@
 ## About Me
 
-I am an experienced software engineer, and my expertise covers many different areas! I enjoy doing a job well done. For me, that usually means that code is clean and understandable. To make clean and understandable code, I should also know what the code is doing.
+I am an experienced full-stack software engineer with a strong focus on writing clean, maintainable code. I take pride in ensuring my code is both understandable and effective, which means fully grasping its purpose and functionality.
 
-I currently help organize UtahJS Lehi meetups. I have met so many new and young developers that are hoping to get into the tech industry. I hope that I can adequately help and prepare them for their career.
+I currently help organize UtahJS Lehi meetups. I write occasionally to my development blog and my life blog. I am learning various different web technologies: from WebAssembly to IAAS like AWS CDK. Also in my study, I am looking to deepen my understanding of computer science principles in order to make efficient web software.
 
-I write occasionally to [my blog](https://gremlich.me).
-
-I am learning various different web technologies: from WebAssembly to IAAS like AWS CDK. Also in my study, I am looking to deepen my understanding of computer science principles in order to make efficient web software.
+I write occasionally to [my blog](https://gremlich.me). Follow me there!
 
 ## My Skills
 
