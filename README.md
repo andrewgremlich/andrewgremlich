@@ -1,8 +1,10 @@
 ## About Me
 
-I am an experienced full-stack software engineer with a strong focus on writing clean, maintainable code. I take pride in ensuring my code is both understandable and effective, which means fully grasping its purpose and functionality.
+I am an experienced software engineer with a strong focus on writing clean, maintainable code. I take pride in ensuring my code is both understandable and effective, which means fully grasping its purpose and functionality.
 
-I currently help organize UtahJS Lehi meetups. I write occasionally to my development blog and my life blog. I am learning various different web technologies: from WebAssembly to IAAS like AWS CDK. Also in my study, I am looking to deepen my understanding of computer science principles in order to make efficient web software.
+I currently help organize UtahJS Lehi meetups. I write occasionally to my development blog and my life blog. I am learning various different web technologies: from browser to hardware integrations and 3D animation in the browser.
+
+Side notes about me are: I speak English and Spanish fluently; I understand French and Italian moderately; and I am an aspiring athelete and outdoorsman!
 
 I write occasionally to [my blog](https://gremlich.me). Follow me there!
 
